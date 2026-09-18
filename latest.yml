@@ -1,8 +1,8 @@
-version: 2.1.8
+version: 2.1.9
 files:
-  - url: jiaowu-v2.1.8.exe
-    sha512: rLfinpt4JHEGY3r1bI+krWCBcmcZqVbNbZSJkWAK4QEz4BVMlhVJLDyIX9tUbdg+vlxdCMiUbWLoJeYbvonMPw==
-    size: 95534145
-path: jiaowu-v2.1.8.exe
-sha512: rLfinpt4JHEGY3r1bI+krWCBcmcZqVbNbZSJkWAK4QEz4BVMlhVJLDyIX9tUbdg+vlxdCMiUbWLoJeYbvonMPw==
-releaseDate: '2026-09-17T09:56:07.028Z'
+  - url: jiaowu-v2.1.9.exe
+    sha512: /cg87knuHFfoj5M/7tBG1SGEbjhRS9SVwMX9rR8O7Y243v6geUMQWP3DkH1tJxSoMczBsQPujv07lsX6+Nc/dA==
+    size: 95535792
+path: jiaowu-v2.1.9.exe
+sha512: /cg87knuHFfoj5M/7tBG1SGEbjhRS9SVwMX9rR8O7Y243v6geUMQWP3DkH1tJxSoMczBsQPujv07lsX6+Nc/dA==
+releaseDate: '2026-09-18T06:42:13.596Z'
