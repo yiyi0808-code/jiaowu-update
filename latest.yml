@@ -1,8 +1,8 @@
-version: 3.0.0
+version: 3.2.0
 files:
-  - url: jiaowu-v3.0.0.exe
-    sha512: jqGl2datZTEKj2fyyFExwPpFp8/Soa49652+DvAJm1YNIT9v6Sdp72YK15GUo5+3KNPR2Rz6+pPOkrx4WUVpow==
-    size: 95535954
-path: jiaowu-v3.0.0.exe
-sha512: jqGl2datZTEKj2fyyFExwPpFp8/Soa49652+DvAJm1YNIT9v6Sdp72YK15GUo5+3KNPR2Rz6+pPOkrx4WUVpow==
-releaseDate: '2026-09-19T05:47:49.610Z'
+  - url: jiaowu-v3.2.0.exe
+    sha512: jo3ksO7mCrQvZbEwtCwxPQNczndaVwPDQScnqTqu3M+0631LsnsKp0oUQxaBTeFzNyC+/FFBYXgmtD0z8tpJQQ==
+    size: 95539632
+path: jiaowu-v3.2.0.exe
+sha512: jo3ksO7mCrQvZbEwtCwxPQNczndaVwPDQScnqTqu3M+0631LsnsKp0oUQxaBTeFzNyC+/FFBYXgmtD0z8tpJQQ==
+releaseDate: '2026-09-29T03:47:55.279Z'
